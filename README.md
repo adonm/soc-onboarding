@@ -1,2 +1,8 @@
 # soc-onboarding
 Proof of concept onboarding scripts
+
+## Onboarding process
+Run the below script in 
+```bash
+curl -s https://raw.githubusercontent.com/adonm/soc-onboarding/main/onboard.py | python3
+```
